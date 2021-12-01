@@ -27,6 +27,8 @@ Here are the combos:
 | '-Y      | Ý         |
 | "-o      | ö         |
 | "-O      | Ö         |
+| a-e      | æ         |
+| A-E      | Æ         |
 | d-h      | ð         |
 | D-H      | Ð         |
 | t-h      | þ         |
