@@ -75,29 +75,61 @@ After a vowel and before a t or s it is a hard German “ch”.
 
 \*\*\*\* Are all aspirated (small puff of air).
 
-## Random Words
+## Words
 
+### Adverbs
 | English         | Icelandic    | Pronunciation         |
 |-----------------|--------------|-----------------------|
-| Yes             | Já           | "yow"                 |
-| No              | Nei          | "nay"                 |
+| Almost          | Næstum       | "n-eye-steum"         |
+| Always          | Alltaf       | "ah-ll-tah-f"         |
 | Maybe           | Kannski      | "kon-skih"            |
+| Never           | Aldrei       | "ahl-drey"            |
+| No              | Nei          | "nay"                 |
+| Now             | Núna         | "n-ew-nah"            |
+| Quickly         | Fljótt       | "fl-oh-tt"            |
+| Rarely          | Sjaldan      | "sya-ll-dahn"         |
+| Sometimes       | Stundum      | "steu-n-deum"         |
+| Soon            | Bráðum       | "brow-th-ew-m"        |
+| Sorry           | Því miður    | "th-vee mith-eur"     |
+| The             | Hið          | "hith"                |
+| Today           | Í dag        | "ee d-ah-ch"          |
+| Together        | Saman        | "sah-m-ah-n"          |
+| Tomorrow        | Á morgun     | "ow m-ah-r-geun"      |
+| Tonight         | Í kvöld      | "ee kv-uh-ld"         |
+| Yes             | Já           | "yow"                 |
+| Yesterday       | Í gær        | "ee g-eye-r"          |
+
+### Prepositions
+| English         | Icelandic    | Pronunciation         |
+|-----------------|--------------|-----------------------|
+| About           | Um           | "eu-m"                |
+| Above           | Yfir         | "eh-fir"              |
+| And             | Og           | "ah-ch"               |
+| Before          | Áður en      | "ow-th-eur ay-n"      |
+| Between         | Á milli      | "ow m-eh-leh"         |
+| But             | En           | "ayn"                 |
+| For             | Fyrir        | "feh-rehr"            |
+| From            | Frá          | "fr-ow"               |
+| In              | Í            | "eh"                  |
+| To              | Til          | "tel"                 |
+| With            | Með          | "m-ay-th              |
+| Without         | Án           | "ow-n"                |
+
+### Nouns
+| English         | Icelandic    | Pronunciation         |
+|-----------------|--------------|-----------------------|
+| Bathroom        | Klósett      | "k-low-set"           |
+| Congratulations | Til hamingju | "till hah-min-ch-you" |
+| Fire            | Eldur        | "ail-deur"            |
+| Test            | Próf         | "pruhf"               |
+
+### Verbs
+| English         | Icelandic    | Pronunciation         |
+|-----------------|--------------|-----------------------|
 | Help            | Hjálpa       | "hyowl-pa"            |
 | Please          | Vinsamlegast | "vin-sahm-lay-ch-st"  |
 | Stop            | Hættu        | "hai-tu"              |
-| Fire            | Eldur        | "ail-deur"            |
-| Congratulations | Til hamingju | "till hah-min-ch-you" |
-| Sorry           | Því miður    | "th-vee mith-eur"     |
-| The             | Hið          | "hith"                |
-| Bathroom        | Klósett      | "k-low-set"           |
-| And             | og           | "ah-ch"               |
-| In              | í            | "eh"                  |
-| But             | en           | "ayn"                 |
-| To              | til          | "tel"                 |
-| For             | fyrir        | "feh-rehr"            |
-| With            | með          | "m-ay-th              |
-| Without         | án           | "ow-n"                |
-| From            | frá          | "fr-ow"               |
+| Test            | Prófa        | "pruh-fah"            |
 
 ## Random Phrases
 | English                  | Icelandic                  | Pronunciation                                 |
@@ -118,7 +150,7 @@ After a vowel and before a t or s it is a hard German “ch”.
 | Please speak more slowly | Gætirðu talað hægar        | "g-eye-tirth-eu tah-lah-th hi-g-ahr"          |
 | Get well soon            | Láttu þér batna            | "l-ow-teu th-ea-r baht-na"                    |
 | I am speaking Icelandic  | Ég er að tala íslensku     | "aych air ath tala ees-layn-skeu"             |
-| You're a good boy        | þú ert góður drengur       | "thew airt go-thoo-er dree-nch-ew-r"          |
+| You're a good boy        | Þú ert góður drengur       | "thew airt go-thoo-er dree-nch-ew-r"          |
 | What the hell            | Hvað er í gangi eiginlega  | "kf-ath air ee ch-ah-chi ay-ch-en-lee-cha"    |
 | Icelandic be pretty cool | Íslenska vera nokkuð flott | "ees-layn-skah vay-rah nah-kk-eu-th fl-ah-tt" |
 | Night witches            | Næturn æringar             | "nigh-teurn aye-rin-gahr"                     |
@@ -128,14 +160,14 @@ After a vowel and before a t or s it is a hard German “ch”.
 
 | Number | Written Form (Icelandic) | Pronunciation |
 |--------|--------------------------|---------------|
-| 0      | núll                     | "newl"        |
-| 1      | einn                     | "ay-tn"       |
-| 2      | tveir                    | "t-vair"      |
-| 3      | þrír                     | "threer"      |
-| 4      | fjórir                   | "fyoh-rir"    |
-| 5      | fimm                     | "fimm         |
-| 6      | sex                      | "sex"         |
-| 7      | sjö                      | "syur"        |
-| 8      | átta                     | "ow-tah"      |
-| 9      | níu                      | "neeu"        |
-| 10     | tíu                      | "teeu"        |
+| 0      | Núll                     | "newl"        |
+| 1      | Einn                     | "ay-tn"       |
+| 2      | Tveir                    | "t-vair"      |
+| 3      | Þrír                     | "threer"      |
+| 4      | Fjórir                   | "fyoh-rir"    |
+| 5      | Fimm                     | "fimm         |
+| 6      | Sex                      | "sex"         |
+| 7      | Sjö                      | "syur"        |
+| 8      | Átta                     | "ow-tah"      |
+| 9      | Níu                      | "neeu"        |
+| 10     | Tíu                      | "teeu"        |
