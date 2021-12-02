@@ -75,23 +75,36 @@ After a vowel and before a t or s it is a hard German “ch”.
 
 \*\*\*\* Are all aspirated (small puff of air).
 
-## Random Words and Phrases
+## Random Words
 
+| English         | Icelandic    | Pronunciation         |
+|-----------------|--------------|-----------------------|
+| Yes             | Já           | "yow"                 |
+| No              | Nei          | "nay"                 |
+| Maybe           | Kannski      | "kon-skih"            |
+| Help            | Hjálpa       | "hyowl-pa"            |
+| Please          | Vinsamlegast | "vin-sahm-lay-ch-st"  |
+| Stop            | Hættu        | "hai-tu"              |
+| Fire            | Eldur        | "ail-deur"            |
+| Congratulations | Til hamingju | "till hah-min-ch-you" |
+| Sorry           | Því miður    | "th-vee mith-eur"     |
+| The             | Hið          | "hith"                |
+| Bathroom        | Klósett      | "k-low-set"           |
+| And             | og           | "ah-ch"               |
+| In              | í            | "eh"                  |
+| But             | en           | "ayn"                 |
+| To              | til          | "tel"                 |
+| For             | fyrir        | "feh-rehr"            |
+| With            | með          | "m-ay-th              |
+| Without         | án           | "ow-n"                |
+| From            | frá          | "fr-ah"               |
+
+## Random Phrases
 | English                  | Icelandic                  | Pronunciation                                 |
 |--------------------------|----------------------------|-----------------------------------------------|
-| Yes                      | Já                         | "yow"                                         |
-| No                       | Nei                        | "nay"                                         |
-| Maybe                    | Kannski                    | "kon-skih"                                    |
-| Help                     | Hjálpa                     | "hyowl-pa"                                    |
-| Please                   | Vinsamlegast               | "vin-sahm-lay-ch-st"                          |
 | Thank You                | Takk                       | "tah-kk"                                      |
 | You're Welcome           | Þér er velkomið            | "thair air vail-kom-ith"                      |
 | Excuse Me                | Fyrirgefðu                 | "fir-irch-ayyf-thew"                          |
-| Hello                    | Góðan daginn               | "go-thon-dah-ch-inn"                          |
-| Stop                     | Hættu                      | "hai-tu"                                      |
-| Fire                     | Eldur                      | "ail-deur"                                    |
-| Congratulations          | Til hamingju               | "till hah-min-ch-you"                         |
-| Sorry                    | Því miður                  | "th-vee mith-eur"                             |
 | What is Your Name        | Hvað heitir þú?            | "kf-ah-th hay-tir thew"                       |
 | Nice to Meet You         | Gaman að kynnast þér       | "gah-mon ahth kin-ahst thear"                 |
 | How Are You              | Vernig hefur þú það?       | "vair-nich hay-feur thew th-ah-th"            |
@@ -100,8 +113,6 @@ After a vowel and before a t or s it is a hard German “ch”.
 | I am Lost                | Ég er týndur               | "ey-ch air tindeaur"                          |
 | My Name Is               | Ég heiti                   | "ey-ch hay-tea"                               |
 | Where is                 | Hvar er                    | "kf-ah-r air"                                 |
-| The                      | Hið                        | "hith"                                        |
-| Bathroom                 | Klósett                    | "k-low-set"                                   |
 | Leave me alone           | Láttu mig í friði!         | "l-ow-teu mi-ch ee fri-thi"                   |
 | I don't know             | Ég veit ekki               | "ey-ch vay-it ay-k-i"                         |
 | Please speak more slowly | Gætirðu talað hægar        | "g-eye-tirth-eu tah-lah-th hi-g-ahr"          |
