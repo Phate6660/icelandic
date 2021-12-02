@@ -121,7 +121,7 @@ After a vowel and before a t or s it is a hard German “ch”.
 | Bathroom        | Klósett      | "k-low-set"           |
 | Congratulations | Til hamingju | "till hah-min-ch-you" |
 | Fire            | Eldur        | "ail-deur"            |
-| Test            | Próf         | "pruhf"               |
+| Test            | Próf         | "prohf"               |
 
 ### Verbs
 | English         | Icelandic    | Pronunciation         |
@@ -129,7 +129,7 @@ After a vowel and before a t or s it is a hard German “ch”.
 | Help            | Hjálpa       | "hyowl-pa"            |
 | Please          | Vinsamlegast | "vin-sahm-lay-ch-st"  |
 | Stop            | Hættu        | "hai-tu"              |
-| Test            | Prófa        | "pruh-fah"            |
+| Test            | Prófa        | "proh-fah"            |
 
 ## Random Phrases
 | English                  | Icelandic                  | Pronunciation                                 |
