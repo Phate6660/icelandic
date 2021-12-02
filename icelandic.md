@@ -5,7 +5,7 @@ This is Phate6660's personal notes for learning Icelandic.<br>
 ## Typing Special Characters
 
 First you need to set up the compose key on Xorg.<br>
-I'll leave you do that on your own, it's out of the scope of this.
+I'll leave you to do that on your own, it's out of the scope of this.
 
 **The compose key needs to be pressed before all shortcuts.**<br>
 However a nice thing is that the key has a rollover effect.<br>
@@ -97,7 +97,7 @@ After a vowel and before a t or s it is a hard German “ch”.
 | For             | fyrir        | "feh-rehr"            |
 | With            | með          | "m-ay-th              |
 | Without         | án           | "ow-n"                |
-| From            | frá          | "fr-ah"               |
+| From            | frá          | "fr-ow"               |
 
 ## Random Phrases
 | English                  | Icelandic                  | Pronunciation                                 |
