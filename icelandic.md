@@ -156,6 +156,19 @@ After a vowel and before a t or s it is a hard German “ch”.
 | Night witches            | Næturn æringar             | "nigh-teurn aye-rin-gahr"                     |
 | I'm a foreigner          | Ég er útlendingur          | "ea-ch air ewt-layn-dehn-geur"                |
 
+## Random LONG phrases
+This will be done in a bullet list type format as to not make really wide tables.
+
+The format is:
+
+- English phrase
+  + Icelandic phrase
+  + Pronunciation
+
+- But for real, I would love to test my Icelandic
+  + En í alvöru, ég myndi elska að prófa íslenskuna mína
+  + "ayn ee ahl-vuh-reu ea-ch meh-n-deh ayl-skah ah-th pro-fah ees-layn-skeu-nah me-nah"
+
 ## Number-Related Stuff
 
 | Number | Written Form (Icelandic) | Pronunciation |
