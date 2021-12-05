@@ -37,32 +37,32 @@ Here are the combos:
 ## Pronunciations
 If unspecified, assume that the pronounciation is the same as the english letter.
 
-| Letters    | Pronunciation          |
-|------------|------------------------|
-| Á, á       | "ow"                   |
-| Ð, ð       | "th" (like in "this")  |
-| E, e       | "ay"                   |
-| É, é       | "ea"                   |
-| G, g       | \*                     |
-| I, i, Y, y | "eh"                   |
-| Í, í, Ý, ý | "ee"                   |
-| J, j       | "y"                    |
-| O, o       | "ah"                   |
-| Ó, ó       | "oh"                   |
-| R, r       | \*\*                   |
-| S, s       | \*\*\*                 |
-| U, u       | "eu"                   |
-| Ú, ú       | "ew"                   |
-| X, x       | "ch"                   |
-| Þ, þ       | "th" (like in "thing") |
-| Æ, æ       | "eye"                  |
-| Ö, ö       | "uh" or "oh"           |
-| Hv         | "kf"                   |
-| Ll         | "tl"                   |
-| Nn         | "tn"                   |
-| Pp, tt, kk | \*\*\*\*               |
-| Au         | "öj"                   |
-| Ei, ey     | "ay"                   |
+| Letters    | Pronunciation | Additional Notes                                         |
+|------------|---------------|----------------------------------------------------------|
+| Á, á       | "ow"          |                                                          |
+| Ð, ð       | "th"          | like in "**th**is", but aspirated as well                |
+| E, e       | "ay"          |                                                          |
+| É, é       | "ea"          |                                                          |
+| G, g       | \*            |                                                          |
+| I, i, Y, y | "eh"          |                                                          |
+| Í, í, Ý, ý | "ee"          |                                                          |
+| J, j       | "y"           |                                                          |
+| O, o       | "ah"          |                                                          |
+| Ó, ó       | "oh"          |                                                          |
+| R, r       | \*\*          |                                                          |
+| S, s       | \*\*\*        |                                                          |
+| U, u       | "eu"          |                                                          |
+| Ú, ú       | "ew"          |                                                          |
+| X, x       | "ch"          |                                                          |
+| Þ, þ       | "th"          | like in "**th**ing"                                      |
+| Æ, æ       | "eye"         |                                                          |
+| Ö, ö       | "uh" or "oh"  |                                                          |
+| Hv         | "kf"          |                                                          |
+| Ll         | "tl"          | push it more out the side of your mouth with your tongue |
+| Nn         | "tn"          |                                                          |
+| Pp, tt, kk | \*\*\*\*      |                                                          |
+| Au         | "öj"          |                                                          |
+| Ei, ey     | "ay"          |                                                          |
 
 \* At the beginning of words it is said as a hard English g.<br>
 In between vowels and at the end of a word a very soft throaty g resembling a toned down German “ch” at the back of the throat.<br>
@@ -159,15 +159,18 @@ After a vowel and before a t or s it is a hard German “ch”.
 ## Random LONG phrases
 This will be done in a bullet list type format as to not make really wide tables.
 
-The format is:
-
-- English phrase
-  + Icelandic phrase
-  + Pronunciation
-
 - But for real, I would love to test my Icelandic
   + En í alvöru, ég myndi elska að prófa íslenskuna mína
   + "ayn ee ahl-vuh-reu ea-ch meh-n-deh ayl-skah ah-th pro-fah ees-layn-skeu-nah me-nah"
+- Eye for an eye, tooth for a tooth
+  + Auga fyrir auga, tönn fyrir tönn
+  + "ah-oo-ch-ah feh-rehr ah-oo-ch-ah tuhn feh-rehr tuhn"
+
+## Random Names of Places and Stuff in Iceland
+
+- Eyjafjallajökull
+  + An ice cap located on top of a volcano in Iceland.
+  + "ay-ya-fyah-lah-yuh-kool"
 
 ## Number-Related Stuff
 
