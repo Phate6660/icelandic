@@ -174,6 +174,7 @@ This will be done in a bullet list type format as to not make really wide tables
 
 ## Number-Related Stuff
 
+### Actual Numbers
 | Number | Written Form (Icelandic) | Pronunciation |
 |--------|--------------------------|---------------|
 | 0      | Núll                     | "newl"        |
@@ -187,3 +188,68 @@ This will be done in a bullet list type format as to not make really wide tables
 | 8      | Átta                     | "ow-tah"      |
 | 9      | Níu                      | "neeu"        |
 | 10     | Tíu                      | "teeu"        |
+
+### Numbers In Adjective Form
+| English | Icelandic | Pronunciation  |
+|---------|-----------|----------------|
+| First   | Fyrstur   | "feh-steur"    |
+| Second  | Sekúnda   | "say-kewn-dah" |
+| Third   | Þriðji    | "th-rith-yeh"  |
+| Fourth  | Fjórði    | "fyour-th-eh"  |
+| Fifth   | Fimmti    | "fimm-teh"     |
+| Sixth   | Sjötti    | "syuh-teh"     |
+| Seventh | Sjöundi   | "syuh-eun-deh" |
+| Eightth | Áttunda   | "ow-teun-dah"  |
+| Ninth   | Níundi    | "nee-eun-deh"  |
+| Tenth   | Tíundi    | "tee-eun-deh"  |
+
+## Grammar
+
+### Nouns
+They are declined in 4 cases:
+
+- nominative (a noun that is doing something)
+- accusative (the direct object of a transitive verb)
+- dative (the receipent of an action)
+- genitive (a word that modifies another word, sometimes used in an adverbial sense)
+
+There are also gender-specific suffixes for words:
+
+- for masculine we have `-ur`, `-i`, `-ll`, or `-nn`
+- for feminine we have `-a`, `-ing`, or `-un`
+- gender neutral nouns usually either don't have suffixes or have a final accented vowel
+
+### Articles
+Indefinite articles (such as a/an) do not exist, but there are definite articles.
+
+They would be...
+
+Singular (without articles):
+
+- for masculine we have `-ur`, `-i`, `-ll`, and `-nn`
+- for feminine we have `-a`
+
+Singular (with article):
+
+- for masculine we have `-urinn`, `-inn`, `-llinn`, and `-nninn`
+- for feminine we have `-in` and `-an`
+- for gender neutral we have `-ið`
+
+Plural (without article):
+
+- for masculine we have `-ar`
+- for feminine we have `ir` and `ur`
+
+Plural (with article):
+
+- for masculine we have `-arnir`
+- for feminine we have `irnar` and `-urnar`
+- for gender neutral we have `-in`
+
+#### Examples
+
+Examples showing nouns for each respective gender declined in nominative:
+
+- Dreng**ur** (a boy), becomes dreng**urinn** (the boy)
+- Stúlk**a** (a girl), becomes stúlk**an** (the girl)
+- Barn (a child), becomes barnið (the child)
