@@ -1,17 +1,20 @@
-# A Thing of Tables and Stuff for Icelandic
-
 This is Phate6660's personal notes for learning Icelandic.<br>
 
 ## Typing Special Characters
 
+### Linux
 First you need to set up the compose key on Xorg.<br>
-I'll leave you to do that on your own, it's out of the scope of this.
+I'll leave you to do that on your own, it's out of the scope of this as<br>
+depending on what DE/WM you're using, there are various different ways to enable it.
 
+### Windows
+I came across [wincompose](https://github.com/SamHocevar/wincompose) while making my own AHK script.<br>
+Once I found it, honestly I fell in love with it. The rest of this document will assume you're using it. 
+
+### Sequences
 **The compose key needs to be pressed before all shortcuts.**<br>
 However a nice thing is that the key has a rollover effect.<br>
 Meaning that it doesn't need to stay pressed down, you can press the keys in order one-by-one.
-
-Here are the combos:
 
 | Shortcut | Character |
 |----------|-----------|
@@ -37,43 +40,32 @@ Here are the combos:
 ## Pronunciations
 If unspecified, assume that the pronounciation is the same as the english letter.
 
-| Letters    | Pronunciation | Additional Notes                                         |
-|------------|---------------|----------------------------------------------------------|
-| Á, á       | "ow"          |                                                          |
-| Ð, ð       | "th"          | like in "**th**is", but aspirated as well                |
-| E, e       | "ay"          |                                                          |
-| É, é       | "ea"          |                                                          |
-| G, g       | \*            |                                                          |
-| I, i, Y, y | "eh"          |                                                          |
-| Í, í, Ý, ý | "ee"          |                                                          |
-| J, j       | "y"           |                                                          |
-| O, o       | "ah"          |                                                          |
-| Ó, ó       | "oh"          |                                                          |
-| R, r       | \*\*          |                                                          |
-| S, s       | \*\*\*        |                                                          |
-| U, u       | "eu"          |                                                          |
-| Ú, ú       | "ew"          |                                                          |
-| X, x       | "ch"          |                                                          |
-| Þ, þ       | "th"          | like in "**th**ing"                                      |
-| Æ, æ       | "eye"         |                                                          |
-| Ö, ö       | "uh" or "oh"  |                                                          |
-| Hv         | "kf"          |                                                          |
-| Ll         | "tl"          | push it more out the side of your mouth with your tongue |
-| Nn         | "tn"          |                                                          |
-| Pp, tt, kk | \*\*\*\*      |                                                          |
-| Au         | "öj"          |                                                          |
-| Ei, ey     | "ay"          |                                                          |
-
-\* At the beginning of words it is said as a hard English g.<br>
-In between vowels and at the end of a word a very soft throaty g resembling a toned down German “ch” at the back of the throat.<br>
-It is not pronounced between accented vowels. It is said as an Icelandic j between a vowel and j.<br>
-After a vowel and before a t or s it is a hard German “ch”.
-
-\*\* Pronounced like in English, but is always rolled.
-
-\*\*\* Like in English; always an "s", never said as a "z".
-
-\*\*\*\* Are all aspirated (small puff of air).
+| Letters    | Pronunciation | Additional Notes                                          |
+|------------|---------------|-----------------------------------------------------------|
+| Á, á       | "ow"          |                                                           |
+| Ð, ð       | "th"          | Like in "**th**is", but aspirated as well.                |
+| E, e       | "ay"          |                                                           |
+| É, é       | "ea"          |                                                           |
+| G, g       | ------------> | At the beginning of words it is said as a hard English g.<br>In between vowels and at the end of a word a very soft throaty g resembling a toned down German “ch” at the back of the throat.<br>It is not pronounced between accented vowels.<br>It is said as an Icelandic j between a vowel and j.<br>After a vowel and before a t or s it is a hard German “ch”.                                                          |
+| I, i, Y, y | "eh"          |                                                           |
+| Í, í, Ý, ý | "ee"          |                                                           |
+| J, j       | "y"           |                                                           |
+| O, o       | "ah"          |                                                           |
+| Ó, ó       | "oh"          |                                                           |
+| R, r       | ------------> | Pronounced like in English, but is always rolled.         |
+| S, s       | ------------> | Like in English; always an "s", never said as a "z".      |
+| U, u       | "eu"          |                                                           |
+| Ú, ú       | "ew"          |                                                           |
+| X, x       | "ch"          |                                                           |
+| Þ, þ       | "th"          | Like in "**th**ing".                                      |
+| Æ, æ       | "eye"         |                                                           |
+| Ö, ö       | "uh" or "oh"  |                                                           |
+| Hv         | "kf"          |                                                           |
+| Ll         | "tl"          | Push it more out the side of your mouth with your tongue. |
+| Nn         | "tn"          |                                                           |
+| Pp, tt, kk | ------------> | Are all aspirated (small puff of air).                    |
+| Au         | "öj"          |                                                           |
+| Ei, ey     | "ay"          |                                                           |
 
 ## Words
 
